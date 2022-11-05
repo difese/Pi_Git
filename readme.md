@@ -19,11 +19,11 @@ Git [Logo](https://git-scm.com/downloads/logos) by Jason Long is licensed under 
 2. [Установка Git](./assets/articles/install.md)
 3. [Первоначальная настройка](./assets/articles/configure.md)
 4. [Создание репозитория](./assets/articles/repositories.md)
-5. [Внесение изменений](./assets/articles/changes.md)
+5. [Внесение изменений](./assets/articles/mchanges.md)
 6. [Игнорирование (некоторых) файлов](./assets/articles/ignore.md)
 7. [Просмотр истории](./assets/articles/history.md)
 8. [Коллективная работа (ветки)](./assets/articles/branches.md)
-9. [Откат коммитов](./assets/articles/recommits.md)
+9. [Откат коммитов](./assets/articles/rcommits.md)
 10. [Синхронизация с удалённым (внешним) репозиторием](./assets/articles/synchronize.md)
 
 ---

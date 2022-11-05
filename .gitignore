@@ -1,0 +1,11 @@
+/bin
+/obj
+*.sw?
+*.pdb
+*.exe
+.vscode/*
+.vscode!/settings.json
+.vscode!/tasks.json
+.vscode!/launch.json
+.vscode!/extensions.json
+.vscode!/*.фрагменты кода
